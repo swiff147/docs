@@ -27,4 +27,7 @@ shortTitle: Activate optional features
 
 ## Further reading
 
-* [AUTOTITLE](/apps/maintaining-github-apps/modifying-a-github-app)
+* [AUTOTITLE][def]
+
+
+[def]: /apps/maintaining-github-apps/modifying-a-github-app
